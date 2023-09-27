@@ -16,4 +16,4 @@
 
 ### Knapsack:
 - [Problem 1](https://github.com/ExGranite/algorithm-codes/blob/main/Knapsack/Problem1.java)
-- [Problem 2](https://github.com/ExGranite/algorithm-codes/blob/main/Knapsack/Problem1.java)
+- [Problem 2](https://github.com/ExGranite/algorithm-codes/blob/main/Knapsack/Problem2.java)
