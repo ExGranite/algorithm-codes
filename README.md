@@ -6,7 +6,7 @@
 - [Level 3](https://github.com/ExGranite/algorithm-codes/blob/main/Unweighted%20Graph/Level3.java): Shortest number of hops between multiple starting nodes and one destination node, reverse order.
 - [Level 4](https://github.com/ExGranite/algorithm-codes/blob/main/Unweighted%20Graph/Level4.java): Finding the starting node with the least number of hops.
 
-### Shortest Path (Bellam-Ford - Weighted Graph):
+### Shortest Path (Bellman-Ford - Weighted Graph):
 - [Question 1](https://github.com/ExGranite/algorithm-codes/blob/main/Weighted%20Graph/Q1.java): Shortest distance between two nodes.
 - [Question 2](https://github.com/ExGranite/algorithm-codes/blob/main/Weighted%20Graph/Q2.java): Path with shortest distance from one node to another, while avoiding certain nodes.
 
